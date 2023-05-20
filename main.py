@@ -1,6 +1,7 @@
 import streamlit as st
 from src.resume_processing import process_resume
 
+
 def main():
 
     st.title("Resume Analyzer")
